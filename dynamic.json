@@ -1,0 +1,36 @@
+{
+  "profile":{
+    "image":"images/ram-charan-best_2.jpg",
+    "name":"av sai",
+    "desn":"student",
+    "mobile":"7997925886",
+    "email":"avsai955@gmail.com"
+
+  },
+  "career":{"info":"to work smart"},
+
+  "education":[
+    {
+      "free" : ["b.tech","mits","85%","2021"]
+      },
+      {
+        "free":["inter","freechai","97%","2017"]
+        },
+        {
+          "free":[  "ssc","freechai","97%","2015"]
+        }
+
+
+],
+"skills":[
+{
+  "name":"webtechnologies",
+  "info":["html","css","js"]
+},
+{
+  "name":"databases",
+  "info":["jdbc","sql","sqlite","firebase"]
+}
+
+]
+}
